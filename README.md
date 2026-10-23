@@ -1,7 +1,5 @@
 Statistical Validation of A/B Testing Experiments for E-Commerce User Interface Optimization
 
-Open In Colab Show Image Show Image Show Image
-
 Author: PRABHU D, Department of Computer Science and Engineering, Sri Eshwar College of Engineering, Coimbatore Domain: E-Commerce & Supply Chain | Level: K4 (Analyze) | COs: CO2, CO5 | Tech stack: Python (SciPy Stats module)
 
 Overview
